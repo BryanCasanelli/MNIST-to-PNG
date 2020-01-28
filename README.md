@@ -5,4 +5,4 @@ This code decompress the MNIST image files availables at http://yann.lecun.com/e
 
 The files are decompressed in PNG format and are separated based on their label.
 
-To excecute the script go to the folder where the files are and type: python3 data_to_img.py
+To excecute the script go to the folder where the MNIST files are and type: python3 data_to_img.py
